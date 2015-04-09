@@ -1,7 +1,10 @@
+/*找出一个整数数组中子数组之和的最大值，例如：数组[1,-2,3,5,1]，返回 8 （因为  符合要求的子数组是[3,5]）
+*/
+
 import java.util.Scanner;
 import java.io.*;
 
-public class T{
+public class Maxarr{
     public static void main(String[] args){
 	int[]a = null;
 	Scanner input = new Scanner(System.in);
