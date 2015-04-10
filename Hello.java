@@ -1,7 +1,7 @@
-/*ÓÃÃüÁîĞĞ¹¤¾ßºÍnotepad±à¼­Æ÷£¬´´½¨²¢±àÒëÒ»¸öÃüÁîĞĞ³ÌĞò£º¡°Hello World¡±*/
+/*ç”¨å‘½ä»¤è¡Œå·¥å…·å’Œnotepadç¼–è¾‘å™¨ï¼Œåˆ›å»ºå¹¶ç¼–è¯‘ä¸€ä¸ªå‘½ä»¤è¡Œç¨‹åºï¼šâ€œHello Worldâ€*/
 
 public class Hello{
    public static void main(String[] args){
-	System.out.println("Hello World!");
+	System.out.println("Hello World!"); /*è¾“å‡º Hello Worldï¼
    }
 }
